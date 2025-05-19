@@ -1,0 +1,10 @@
+twinkle twinkle something something
+humpty dumpty ki dhuhanlniya
+The Python language has evolved significantly over the years,
+ making it one of the most popular programming languages worldwide. 
+ Whether you are automating tasks, building web applications, or performing data analysis, Python offers libraries and frameworks to suit every need. 
+ In a typical day of coding with Python, developers often find themselves utilizing packages like NumPy, pandas, and matplotlib. 
+ The simplicity of Python syntax makes it especially appealing to beginners while still being powerful enough for advanced applications.
+  From AI-driven projects to web development with Django or Flask, Python's versatility shines through. 
+  Many programmers appreciate how Python handles errors gracefully compared to other languages. 
+  Additionally, the vast community support means that when encountering an issue, a Python solution is just a quick search away
